@@ -4,8 +4,8 @@ info:
   title: API First with Spring Boot
   termsOfService: https://example.com/terms/
   contact:
-    email: john@springframework.guru
-    url: http://example.com/contact
+    email: jlvieyra@serviciostbernal.com
+    url: https://serviciostbernal.com
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
@@ -21,8 +21,8 @@ info:
 # tags:
 #   - name: Echo
 #     description: Example echo operations.
-#   - name: User
-#     description: Operations about users.
+   - name: User
+     description: Operations about users.
 #   - name: Tag
 #     description: This is a tag description.
 servers:
