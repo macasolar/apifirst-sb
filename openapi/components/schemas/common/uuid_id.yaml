@@ -1,5 +1,0 @@
-type: string
-format: uuid
-description: System generated unique identifier for the resource.
-readOnly: true
-nullable: true
