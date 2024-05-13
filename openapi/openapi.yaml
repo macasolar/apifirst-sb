@@ -4,8 +4,8 @@ info:
   title: API First with Spring Boot
   termsOfService: https://example.com/terms/
   contact:
-    email: john@springframework.guru
-    url: http://springframework.guru/contact
+    email: jlvieyra@serviciostbernal.com
+    url: https://serviciostbernal.com
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
@@ -14,13 +14,13 @@ info:
   description: >
     This is an **example** API to demonstrate features of the OpenAPI
     specification.
-tags:
-  - name: Customer
-    description: Customer operations
-  - name: Product
-    description: Product operations   
-  - name: Order
-    description: Operations about orders.
+# tags:
+#   - name: Customer
+#     description: Customer operations
+#   - name: Product
+#     description: Product operations   
+#   - name: Order
+#     description: Operations about orders.
 servers:
   - url: https://{tenant}/api/v1
     variables:
